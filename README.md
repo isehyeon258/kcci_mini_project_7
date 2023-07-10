@@ -10,8 +10,8 @@ https://drive.google.com/file/d/1ChUBQzykxAe2-kiYzdoW7Q6qBCwJXwtI/view?usp=drive
 ## Clone code
 
 ```shell
-git clone https://github.com/zzz/yyy/xxxx
-```
+[git clone https://github.com/zzz/yyy/xxxx
+](https://github.com/isehyeon258/kcci_mini_project_7.git)```
 
 ## Prerequite
 
