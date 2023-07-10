@@ -6,15 +6,11 @@ openvino notebook
 
 ## Clone code
 
-* (Code clone 방법에 대해서 기술)
-
 ```shell
 git clone https://github.com/zzz/yyy/xxxx
 ```
 
 ## Prerequite
-
-* (프로잭트를 실행하기 위해 필요한 dependencies 및 configuration들이 있다면, 설치 및 설정방법에 대해 기술)
 
 ```shell
 python -m venv .venv
@@ -29,29 +25,13 @@ cd /path/to/repo/xxx/
 python -m pip install -r requirements.txt
 ```
 
-## Steps to build
+## Steps to build & run
 
-* (프로젝트를 실행을 위해 빌드 절차 기술)
-
-```shell
 cd ~/xxxx
 source .venv/bin/activate
 
-make
-make install
-```
-
-## Steps to run
-
-* (프로젝트 실행방법에 대해서 기술, 특별한 사용방법이 있다면 같이 기술)
-
-```shell
-cd ~/xxxx
-source .venv/bin/activate
-
-cd /path/to/repo/xxx/
-python demo.py -i xxx -m yyy -d zzz
-```
+cd project
+python project.py
 
 ## Output
 
