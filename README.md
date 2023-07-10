@@ -17,8 +17,6 @@ python -m venv .venv
 source .venv/bin/activate
 
 python -m pip install -U pip
-python -m pip install wheel
-
 python -m pip install openvino-dev
 
 cd /path/to/repo/xxx/
