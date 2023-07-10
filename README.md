@@ -3,7 +3,8 @@ Sound & Text detection
 
 ## Requirement
 openvino notebook
-
+압축 해제 후 프로젝트 폴더에 붙여넣기
+https://drive.google.com/file/d/1QC8-T-yNLgiAB5E2tpf6YC0gZTCqcido/view?usp=sharing, https://drive.google.com/file/d/1bypwMDdwG31NIWcef01cqhUA77k0mOJ-/view?usp=sharing
 ## Clone code
 
 ```shell
